@@ -11,3 +11,5 @@
 - Wapiti
 - Commix
 - Sqlmap
+- Sqlsus
+- Sqlninja
